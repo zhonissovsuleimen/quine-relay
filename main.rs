@@ -1,0 +1,1 @@
+fn main() {print!("var r = {:?};var s={:?};console.log(r,s,r,s)", "fn main() {print!(%j, %j, %j)}", "var r = {:?};var s={:?};console.log(r,s,r,s)")}
